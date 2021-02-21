@@ -24,4 +24,4 @@ and after that:
 
 ## Example view of site
 
-![width:200]https://github.com/take2make/GrammaKey_Site/blob/main/images/11.%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B50.png
+![alt tag](https://github.com/take2make/GrammaKey_Site/blob/main/images/11.%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B50.png)
