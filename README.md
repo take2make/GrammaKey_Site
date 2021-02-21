@@ -2,7 +2,7 @@
 
 In the core of Site is used modern API server. https://github.com/GermanZvezdin/Grammakey.
 
-## Structuce
+## Structure
 
 GrammaKey site was constructed with GO language, which is powerful for server-side tasks. 
 To get result text users just need to type key sentence in the specific field and get the result text,
